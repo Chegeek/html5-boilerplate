@@ -1,5 +1,7 @@
 ### HEAD
 
+* Remove IE-specific conditional classes on the `html` element.
+* Added Defunctr 1.0.0 to replace the IE-specific conditional classes.
 * Update to jQuery 1.9.1
 
 ### 4.1.0 (January 21, 2013)

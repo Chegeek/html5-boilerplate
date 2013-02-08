@@ -26,6 +26,6 @@ authoring](http://docs.jquery.com/Plugins/Authoring#Getting_Started)
 
 This directory can be used to contain all 3rd party library code.
 
-Minified versions of the latest jQuery and Modernizr libraries are included by
-default. You may wish to create your own [custom Modernizr
+Minified versions of the latest jQuery, Modernizr and Defunctr libraries are 
+included by default. You may wish to create your own [custom Modernizr
 build](http://www.modernizr.com/download/).
